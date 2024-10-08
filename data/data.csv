@@ -1,0 +1,26 @@
+nik,nama,tanggal_lahir,tempat_lahir,jenis_kelamin,alamat,rt,rw,kelurahan,kecamatan,kota,provinsi,agama,status_perkawinan,kewarganegaraan,pekerjaan
+3175026007880001,Budi Santoso,1988-07-20,Jakarta,Laki-laki,Jl. Merdeka No. 123,003,002,Kebon Jeruk,Kebon Jeruk,Jakarta Barat,DKI Jakarta,Islam,Kawin,Indonesia,Pegawai Swasta
+3275046504950002,Siti Nurhayati,1995-04-25,Bandung,Perempuan,Jl. Dahlia No. 45,008,003,Margahayu,Bekasi Timur,Bekasi,Jawa Barat,Islam,Belum Kawin,Indonesia,Mahasiswa
+3371011203820003,Agus Purnomo,1982-03-12,Surakarta,Laki-laki,Jl. Veteran No. 78,002,005,Jebres,Jebres,Surakarta,Jawa Tengah,Kristen,Kawin,Indonesia,Wiraswasta
+3471055806900004,Dewi Lestari,1990-06-18,Yogyakarta,Perempuan,Jl. Malioboro No. 210,004,001,Gedongtengen,Gedongtengen,Yogyakarta,DI Yogyakarta,Hindu,Kawin,Indonesia,Guru
+3573010909870005,Rudi Hartono,1987-09-09,Malang,Laki-laki,Jl. Soekarno-Hatta No. 55,006,004,Lowokwaru,Lowokwaru,Malang,Jawa Timur,Buddha,Belum Kawin,Indonesia,Dokter
+3174061410920006,Rina Wulandari,1992-10-14,Jakarta,Perempuan,Jl. Gatot Subroto No. 87,005,003,Kuningan,Setiabudi,Jakarta Selatan,DKI Jakarta,Islam,Kawin,Indonesia,Akuntan
+3273022505850007,Hendra Kusuma,1985-05-25,Bandung,Laki-laki,Jl. Asia Afrika No. 112,001,006,Braga,Sumur Bandung,Bandung,Jawa Barat,Kristen,Kawin,Indonesia,Arsitek
+3372031208930008,Lina Susanti,1993-08-12,Surakarta,Perempuan,Jl. Slamet Riyadi No. 290,007,002,Laweyan,Laweyan,Surakarta,Jawa Tengah,Islam,Belum Kawin,Indonesia,Perawat
+3471042003800009,Eko Prasetyo,1980-03-20,Yogyakarta,Laki-laki,Jl. Parangtritis No. 65,003,005,Mantrijeron,Mantrijeron,Yogyakarta,DI Yogyakarta,Islam,Kawin,Indonesia,Dosen
+3578051507970010,Putri Handayani,1997-07-15,Surabaya,Perempuan,Jl. Pemuda No. 35,002,004,Embong Kaliasin,Genteng,Surabaya,Jawa Timur,Katolik,Belum Kawin,Indonesia,Designer
+3171032909890011,Arief Widodo,1989-09-29,Jakarta,Laki-laki,Jl. Sudirman No. 456,004,001,Karet Semanggi,Setiabudi,Jakarta Selatan,DKI Jakarta,Islam,Kawin,Indonesia,Pengacara
+3277012101860012,Maya Anggraini,1986-01-21,Cimahi,Perempuan,Jl. Cihampelas No. 198,006,003,Cipageran,Cimahi Utara,Cimahi,Jawa Barat,Islam,Kawin,Indonesia,Guru
+3375022406910013,Dian Permata,1991-06-24,Sukoharjo,Perempuan,Jl. Ahmad Yani No. 23,001,002,Gayam,Sukoharjo,Sukoharjo,Jawa Tengah,Islam,Belum Kawin,Indonesia,Pegawai Negeri
+3471061512830014,Bambang Hermawan,1983-12-15,Sleman,Laki-laki,Jl. Kaliurang No. 75,005,004,Condongcatur,Depok,Sleman,DI Yogyakarta,Islam,Kawin,Indonesia,Insinyur
+3578070707950015,Novita Sari,1995-07-07,Sidoarjo,Perempuan,Jl. Gajah Mada No. 100,003,001,Pucang,Sidoarjo,Sidoarjo,Jawa Timur,Kristen,Belum Kawin,Indonesia,Perawat
+3173052802840016,Fajar Nugroho,1984-02-28,Jakarta,Laki-laki,Jl. Cikini Raya No. 84,002,005,Cikini,Menteng,Jakarta Pusat,DKI Jakarta,Islam,Kawin,Indonesia,Manajer
+3271041006920017,Anita Dewi,1992-06-10,Depok,Perempuan,Jl. Margonda Raya No. 150,007,003,Kemiri Muka,Beji,Depok,Jawa Barat,Islam,Belum Kawin,Indonesia,Jurnalis
+3374062404880018,Yusuf Ibrahim,1988-04-24,Pekalongan,Laki-laki,Jl. Hayam Wuruk No. 12,004,002,Pekalongan Utara,Pekalongan Utara,Pekalongan,Jawa Tengah,Islam,Kawin,Indonesia,Pengusaha
+3402032011960019,Sari Indah,1996-11-20,Bantul,Perempuan,Jl. Imogiri Timur No. 200,001,006,Bantul,Bantul,Bantul,DI Yogyakarta,Islam,Belum Kawin,Indonesia,Mahasiswa
+3515082308900020,Toni Wijaya,1990-08-23,Malang,Laki-laki,Jl. Ijen No. 62,005,003,Oro-oro Dowo,Klojen,Malang,Jawa Timur,Katolik,Kawin,Indonesia,Dokter Gigi
+3174091505870021,Ratna Sari,1987-05-15,Jakarta,Perempuan,Jl. Tebet Raya No. 45,003,004,Tebet Timur,Tebet,Jakarta Selatan,DKI Jakarta,Islam,Kawin,Indonesia,Psikolog
+3273101212940022,Adi Nugraha,1994-12-12,Bandung,Laki-laki,Jl. Dipatiukur No. 35,002,001,Lebakgede,Coblong,Bandung,Jawa Barat,Islam,Belum Kawin,Indonesia,Programmer
+3372110909820023,Lia Kusuma,1982-09-09,Surakarta,Perempuan,Jl. Dr. Radjiman No. 333,006,005,Sriwedari,Laweyan,Surakarta,Jawa Tengah,Hindu,Kawin,Indonesia,Wiraswasta
+3173042805780009,Rizki Pratama,1991-02-20,Yogyakarta,Laki-laki,Jl. Prawirotaman No. 10,004,002,Brontokusuman,Mergangsan,Yogyakarta,DI Yogyakarta,Islam,Belum Kawin,Indonesia,Fotografer
+3504130103930002,Dina Fitriani,1998-03-03,Surabaya,Perempuan,Jl. Raya Darmo No. 54,001,003,Darmo,Wonokromo,Surabaya,Jawa Timur,Islam,Belum Kawin,Indonesia,Mahasiswa
